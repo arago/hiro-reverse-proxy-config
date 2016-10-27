@@ -27,6 +27,10 @@ If you submit content to this repository, you agree that your contribution will 
 This configuration is community supported.
 For questions and support, please refer to our documentation https://docs.hiro.arago.co/ and visit our community http://tabtab.co/ for asking detailed questions.
 
+# Legal
+
+NGINX is a trademark of Nginx Software Inc.
+
 # License  (MIT)
  
 Copyright (c) 2016 arago GmbH
