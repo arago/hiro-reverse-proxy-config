@@ -29,7 +29,7 @@ For questions and support, please refer to our documentation https://docs.hiro.a
 
 # Legal
 
-NGINX is a trademark of Nginx Software Inc.
+NGINX is a copyright of Nginx Software Inc.
 
 # License  (MIT)
  
