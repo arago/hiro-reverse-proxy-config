@@ -25,7 +25,7 @@ If you submit content to this repository, you agree that your contribution will 
 # Questions and Support
 
 This configuration is community supported.
-For questions and support, please refer to our documentation https://docs.hiro.arago.co/ and visit our community http://tabtab.co/ for asking detailed questions.
+For questions and support, please refer to our documentation https://docs.hiro.arago.co/ and visit our community https://hiro.community/ for asking detailed questions.
 
 # Legal
 
