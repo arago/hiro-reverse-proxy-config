@@ -72,10 +72,15 @@ set(CPACK_RPM_USER_FILELIST
 "%ignore /etc"
 "%ignore /etc/nginx"
 "%ignore /etc/nginx/conf.d"
+"%ignore /usr"
+"%ignore /usr/lib"
+"%ignore /usr/lib/systemd"
+"%ignore /usr/lib/systemd/system"
 "%config(noreplace) /etc/nginx/conf.d/*"
 )
 SET(CPACK_INSTALLED_DIRECTORIES
     "${PROJECT_SOURCE_DIR}/conf.d" "/etc/nginx/conf.d"
+    "${PROJECT_SOURCE_DIR}/nginx.service.d" "/usr/lib/systemd/system/nginx.service.d"
 )
 
 # set postinstall script
